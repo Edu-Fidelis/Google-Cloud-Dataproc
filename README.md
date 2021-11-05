@@ -111,7 +111,7 @@ console.cloud.google.com
 
 ##### No cluster
 
-1 - Clica no nome em azul do cluster para ver mais sobre ele    
+1 - Clique no nome em azul do cluster para ver mais sobre ele    
 
 
 ##### Job
